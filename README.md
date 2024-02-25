@@ -9,7 +9,6 @@ The z-axis(altitude) is exadurated realative to x, y to emphasize changes in ele
 - [**Map Build**](./basemap.ipynb): Bot build with Selenium.
 
 ![img3](./images/3.png)
-![img4](./images/4.png)
 ![img1](./images/1.png)
 ![img2](./images/2.png)
 
