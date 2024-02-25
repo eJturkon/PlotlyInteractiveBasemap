@@ -1,0 +1,9 @@
+Empty dir for data.
+
+If you use this change shell script in scrape notebook from:
+
+<desired data directory>
+
+To:
+
+./data
