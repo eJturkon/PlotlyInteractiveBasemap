@@ -1,4 +1,4 @@
-## **Plotly 3D Topographic Basemap**
+## **3D Topographic Basemap** | Plotly
 #### Contents:
 - [**Data Scrape**](./basemap_scrape.ipynb): Data obtained via [Earth Explorer](https://earthexplorer.usgs.gov/) an applet created by The United States Geological Survey.
 - [**Map Build**](./basemap.ipynb): Bot build with Selenium
