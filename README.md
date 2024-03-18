@@ -8,7 +8,8 @@ Data is stored in 108 geotiff files scraped from [Earth Explorer](https://earthe
 
 The z-axis(altitude) is exaggerated realative to x, y to emphasize changes in elevation, numbers are correct.
 
+![img2](./images/2.png)
 ![img3](./images/3.png)
 ![img1](./images/1.png)
-![img2](./images/2.png)
+
 
