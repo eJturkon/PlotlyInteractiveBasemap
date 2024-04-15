@@ -1,4 +1,4 @@
-## **3D Interactive Basemap |** Plotly
+## **3D Interactive Basemap |** *Plotly*
 
 #### Contents:
 - [**Data Scrape**](./basemap_scrape.ipynb): Data obtained via [Earth Explorer](https://earthexplorer.usgs.gov/) an applet created by The United States Geological Survey.
