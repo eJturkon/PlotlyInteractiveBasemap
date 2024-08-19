@@ -1,4 +1,5 @@
 ## **3D Interactive Basemap |** *Plotly*
+A customizable and user interactive backround for visualizing geospatial data within the Plotly Python module.
 
 #### Contents:
 - [**dev_notebooks**](./dev_notebooks)
